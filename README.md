@@ -39,7 +39,7 @@ This app is completely offline, ensuring your data remains private and accessibl
 ## 🛠️ Setup Instructions
 
 1. **Download and Install**  
-   Download the APK file from [link to your APK] and install it on your Android device. Ensure your device supports Android 6.0 or above.
+   Download the APK file from [Here](https://github.com/shritej-koneru/Expense-Tracker-App/releases) and install it on your Android device. Ensure your device supports Android 6.0 or above.
 
 2. **First Time Setup**  
    - Launch the app.
@@ -126,11 +126,5 @@ This app is completely offline, ensuring your data remains private and accessibl
 ## 🤝 Acknowledgments
 
 This project was developed by students from **VRSEC, CSE - 3, (Design Thinking Group - 1)**, showcasing teamwork and practical application of design and development skills.
-
----
-
-## 📢 Feedback
-
-We'd love to hear your thoughts! If you encounter any issues or have suggestions for improvement, please reach out at [your email/contact link].
 
 ---
