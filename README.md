@@ -69,17 +69,17 @@ This app is completely offline, ensuring your data remains private and accessibl
 ## 🎨 Screenshots
 
 ### Home Page
-![Alt text](images/example.png)
-![Alt text](images/example.png)
+![Home Page - 1](https://github.com/shritej-koneru/Expense-Tracker-App/blob/main/Images/Home%20page%20-%201.jpg)
+![Home Page - 2](https://github.com/shritej-koneru/Expense-Tracker-App/blob/main/Images/Home%20page%20-%202.jpg)
 
 ### Add Income/Expense
-![Alt text](images/example.png)
+![Add Income Page](https://github.com/shritej-koneru/Expense-Tracker-App/blob/main/Images/Add%20Income.jpg)
 ![Add Expense Page](https://github.com/shritej-koneru/Expense-Tracker-App/blob/main/Images/Add%20Expense.jpg)
 
 ### Analytics
-![Alt text](images/example.png)
-![Alt text](images/example.png)
-![Alt text](images/example.png)
+![Analytics Page - 1](https://github.com/shritej-koneru/Expense-Tracker-App/blob/main/Images/Analytics%20-%201.jpg)
+![Analytics Page - 2](https://github.com/shritej-koneru/Expense-Tracker-App/blob/main/Images/Analytics%20-%202.jpg)
+![Analytics Page - 3](https://github.com/shritej-koneru/Expense-Tracker-App/blob/main/Images/Analytics%20-%203.jpg)
 
 ---
 
