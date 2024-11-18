@@ -74,7 +74,7 @@ This app is completely offline, ensuring your data remains private and accessibl
 
 ### Add Income/Expense
 ![Alt text](images/example.png)
-![Alt text](images/example.png)
+![Add Expense Page](https://github.com/shritej-koneru/Expense-Tracker-App/blob/main/Images/Add%20Expense.jpg)
 
 ### Analytics
 ![Alt text](images/example.png)
